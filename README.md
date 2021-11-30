@@ -4,13 +4,13 @@ You can use the [editor on GitHub](https://github.com/Etam4225/Data-Science/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-##Firstly
+## Revenue of NYC during and before COVID-19
 I gathered data that provided me details on the revenue NYC earned during previous years, including when COVID-19 hit. As you all know, Hunter College closed it's doors at around March 2020 and there was a 2 week lockdown imposed on many citizens. As such, for 2020's tax revenue I expected to see quite a decrease in revenue. However, the data I've gathered shows otherwise.
 
 Below is a graph of the mean actual NYC revenue annually. (This graph is the combined results of various sectors of tax revenue which includes: )
 
 
-#Additional Note:
+# Additional Note:
 Unfortunately, 2021's revenue data is not available (the year still isn't complete) and I have yet to find data for it either.
 
 ```markdown
