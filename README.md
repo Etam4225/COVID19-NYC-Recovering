@@ -10,6 +10,14 @@ I gathered data that provided me details on the revenue NYC earned during previo
 Below is a graph of the mean actual NYC revenue annually. (This graph is the combined results of various sectors of tax revenue which includes: )
 
 
+| FISCAL_YEAR  | Mean Actual Revenue |
+| ------------- | ------------- |
+| 2017  | 3644.133333  |
+| 2018  | 3940.666667  |
+| 2019  | 4392.285714  |
+|2020   | 4506.357143  |
+
+
 # Additional Note:
 Unfortunately, 2021's revenue data is not available (the year still isn't complete) and I have yet to find data for it either.
 
