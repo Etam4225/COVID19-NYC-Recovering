@@ -14,7 +14,7 @@ Below is a graph of the mean actual NYC tax revenue annually (**In millions of d
 | 2019  | 4392.285714  |
 |2020   | 4506.357143  |
 
-One thing to note is the difference in Mean Actual Tax Revenue between each year. We'll notice that the gain in tax revenue is lowest between 2019 and 2020 (a difference of 114.071429). So, it's evidently clear that COVID-19 **DID** have an effect in 2020 where tax revenue had declined about 300 million dollars (compared to 2018-2019)
+One thing to note is the difference in Mean Actual Tax Revenue between each year. We'll notice that the gain in tax revenue is lowest between 2019 and 2020 (a difference of 114.071429). So, it's evidently clear that COVID-19 **DID** have an effect in 2020 where tax revenue had declined about 300 million dollars (compared to 2018-2019) where it trended downward in 2020. So, in 2020 COVID-19 had a significant, negative effect on economy in NYC.
 
 # Additional Note:
 Unfortunately, 2021's revenue data is not available (the year still isn't complete) and I have yet to find data for it either.
