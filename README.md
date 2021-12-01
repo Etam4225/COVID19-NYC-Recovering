@@ -1,13 +1,9 @@
 ## Is NYC recovering from COVID-19? Let's take a look.
 
-You can use the [editor on GitHub](https://github.com/Etam4225/Data-Science/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## Revenue of NYC during and before COVID-19
 I gathered data that provided me details on the revenue NYC earned during previous years, including when COVID-19 hit. As you all know, Hunter College closed it's doors at around March 2020 and there was a 2 week lockdown imposed on many citizens. As such, for 2020's tax revenue I expected to see quite a decrease in revenue. However, the data I've gathered shows otherwise.
 
-Below is a graph of the mean actual NYC tax revenue annually. (This graph is the combined results of various sectors of tax revenue which includes various taxes like cigarette tax, real property tax, commerical rent tax, business corp tax, etc.)
+Below is a graph of the mean actual NYC tax revenue annually (**In millions of dollars**). (This graph is the combined results of various sectors of tax revenue which includes various taxes like cigarette tax, real property tax, commerical rent tax, business corp tax, etc.)
 
 ![Mean Actual NYC Tax Revenue by Year](https://github.com/Etam4225/COVID19-NYC-Recovering/blob/main/Mean%20annual%20Revenue%20Yearly.PNG)
 
@@ -18,30 +14,9 @@ Below is a graph of the mean actual NYC tax revenue annually. (This graph is the
 | 2019  | 4392.285714  |
 |2020   | 4506.357143  |
 
+One thing to note is the difference in Mean Actual Tax Revenue between each year. We'll notice that the gain in tax revenue is lowest between 2019 and 2020 (a difference of 114.071429). So, it's evidently clear that COVID-19 **DID** have an effect in 2020 where tax revenue had declined about 300 million dollars (compared to 2018-2019)
 
 # Additional Note:
 Unfortunately, 2021's revenue data is not available (the year still isn't complete) and I have yet to find data for it either.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Etam4225/Data-Science/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Despite that, I do suspsect revenue on 2021 to nonetheless be lower, I think after the project ends, I could still update the bar graph to reflect this. If it indeed is HIGHER than 2020, I think that'd be an interesting point to point out that NYC is recovering albeit very slowly, however, as I stated earlier, I suspect revenue either stayed the same as 2020 or dropped.
