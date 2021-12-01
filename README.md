@@ -7,11 +7,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Revenue of NYC during and before COVID-19
 I gathered data that provided me details on the revenue NYC earned during previous years, including when COVID-19 hit. As you all know, Hunter College closed it's doors at around March 2020 and there was a 2 week lockdown imposed on many citizens. As such, for 2020's tax revenue I expected to see quite a decrease in revenue. However, the data I've gathered shows otherwise.
 
-Below is a graph of the mean actual NYC revenue annually. (This graph is the combined results of various sectors of tax revenue which includes: )
+Below is a graph of the mean actual NYC tax revenue annually. (This graph is the combined results of various sectors of tax revenue which includes various taxes like cigarette tax, real property tax, commerical rent tax, business corp tax, etc.)
 
-![Mean Actual NYC Revenue by Year](https://github.com/Etam4225/COVID19-NYC-Recovering/blob/main/Mean%20annual%20Revenue%20Yearly.PNG)
+![Mean Actual NYC Tax Revenue by Year](https://github.com/Etam4225/COVID19-NYC-Recovering/blob/main/Mean%20annual%20Revenue%20Yearly.PNG)
 
-| FISCAL_YEAR  | Mean Actual Revenue |
+| FISCAL_YEAR  | Mean Actual Tax Revenue |
 | ------------- | ------------- |
 | 2017  | 3644.133333  |
 | 2018  | 3940.666667  |
