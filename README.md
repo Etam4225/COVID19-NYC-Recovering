@@ -9,6 +9,7 @@ I gathered data that provided me details on the revenue NYC earned during previo
 
 Below is a graph of the mean actual NYC revenue annually. (This graph is the combined results of various sectors of tax revenue which includes: )
 
+![Mean Actual NYC Revenue by Year](https://github.com/Etam4225/COVID19-NYC-Recovering/blob/main/Mean%20annual%20Revenue%20Yearly.PNG)
 
 | FISCAL_YEAR  | Mean Actual Revenue |
 | ------------- | ------------- |
