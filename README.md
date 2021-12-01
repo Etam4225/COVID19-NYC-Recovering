@@ -20,3 +20,7 @@ One thing to note is the difference in Mean Actual Tax Revenue between each year
 Unfortunately, 2021's revenue data is not available (the year still isn't complete) and I have yet to find data for it either.
 
 Despite that, I do suspsect revenue on 2021 to nonetheless be lower, I think after the project ends, I could still update the bar graph to reflect this. If it indeed is HIGHER than 2020, I think that'd be an interesting point to point out that NYC is recovering albeit very slowly, however, as I stated earlier, I suspect revenue either stayed the same as 2020 or dropped.
+
+##Unemployment in NYC
+
+Looking at unemployment, however, does tell as a more interesting, revealing story.
