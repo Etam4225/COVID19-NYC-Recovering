@@ -30,3 +30,10 @@ Looking at unemployment, however, does tell as a more interesting, revealing sto
 We can see that in 2017-2019, unemployment rates are relatively close and unchanged. Then, we see a massive jump (yes, this is what actually happened) from March and up in 2020.
 The change jumped from 4.20% to 15.20% an 11% jump. The following months, the rate stayed fairly high. Then going into 2021, we can see a relative trend that unemployment rates are indeed going down to suggest, NYC is slowly recovering from the effects, at least economy-wise.
 
+### Potential Additional Remaining Work
+
+I think it'd be helpful to compare unemployment rates with peaks of COVID-19 cases to see if there's a correlation (which could also provide additional analysis to use). I may also end up adding extra data although I do not have any in mind as of yet.
+
+
+# END
+
