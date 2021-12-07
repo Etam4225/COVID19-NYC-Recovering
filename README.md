@@ -35,5 +35,13 @@ The change jumped from 4.20% to 15.20% an 11% jump. The following months, the ra
 I think it'd be helpful to compare unemployment rates with peaks of COVID-19 cases to see if there's a correlation (which could also provide additional analysis to use). I may also end up adding extra data although I do not have any in mind as of yet.
 
 
+# Sources:
+[Cases of Covid](https://data.cityofnewyork.us/Health/COVID-19-Daily-Counts-of-Cases-Hospitalizations-an/rc75-m7u3/data)
+[Actual Tax Revenue](https://data.cityofnewyork.us/City-Government/New-York-City-Tax-Revenue-Actuals/j3uq-sh95)
+[Unemployment Rates](https://statistics.labor.ny.gov/laus.asp)
+
+
+
+
 # END
 
