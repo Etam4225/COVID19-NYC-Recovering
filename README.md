@@ -31,7 +31,7 @@ We can see that in 2017-2019, unemployment rates are relatively close and unchan
 The change jumped from 4.20% to 15.20% an 11% jump. The following months, the rate stayed fairly high. Then going into 2021, we can see a relative trend that unemployment rates are indeed going down to suggest, NYC is slowly recovering from the effects, at least economy-wise.
 
 ## A look at unemployment in NY State
-![Unemployment Rates in Octobe 2021](https://raw.githubusercontent.com/Etam4225/COVID19-NYC-Recovering/main/Figure_1.png)
+![Unemployment Rates in Octobe 2021](https://raw.githubusercontent.com/Etam4225/COVID19-NYC-Recovering/main/Department%20of%20Labor%20New%20York%20unemployment%20rate.PNG)
 
 Source: [New York Department of Labor](https://dol.ny.gov/system/files/documents/2021/11/state-labor-department-releases-preliminary-october-2021-area-unemployment-rates.pdf)
 
