@@ -48,7 +48,7 @@ I think it'd be helpful to compare unemployment rates with peaks of COVID-19 cas
 [Cases of Covid](https://data.cityofnewyork.us/Health/COVID-19-Daily-Counts-of-Cases-Hospitalizations-an/rc75-m7u3/data)  
 [Actual Tax Revenue](https://data.cityofnewyork.us/City-Government/New-York-City-Tax-Revenue-Actuals/j3uq-sh95)  
 [Unemployment Rates](https://statistics.labor.ny.gov/laus.asp)
-
+[New York Department of Labor](https://dol.ny.gov/system/files/documents/2021/11/state-labor-department-releases-preliminary-october-2021-area-unemployment-rates.pdf)
 
 
 
