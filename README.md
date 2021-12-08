@@ -30,6 +30,15 @@ Looking at unemployment, however, does tell as a more interesting, revealing sto
 We can see that in 2017-2019, unemployment rates are relatively close and unchanged. Then, we see a massive jump (yes, this is what actually happened) from March and up in 2020.
 The change jumped from 4.20% to 15.20% an 11% jump. The following months, the rate stayed fairly high. Then going into 2021, we can see a relative trend that unemployment rates are indeed going down to suggest, NYC is slowly recovering from the effects, at least economy-wise.
 
+## A look at unemployment in NY State
+![Unemployment Rates in Octobe 2021](https://raw.githubusercontent.com/Etam4225/COVID19-NYC-Recovering/main/Figure_1.png)
+
+Source: [New York Department of Labor](https://dol.ny.gov/system/files/documents/2021/11/state-labor-department-releases-preliminary-october-2021-area-unemployment-rates.pdf)
+
+This takes a look at NY overall which points out in general that NYC is doing worse objectively compared to New York's other counties.
+
+
+
 ### Potential Additional Remaining Work
 
 I think it'd be helpful to compare unemployment rates with peaks of COVID-19 cases to see if there's a correlation (which could also provide additional analysis to use). I may also end up adding extra data although I do not have any in mind as of yet.
