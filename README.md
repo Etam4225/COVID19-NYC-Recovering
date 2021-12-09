@@ -1,9 +1,9 @@
-## Is NYC recovering from COVID-19 (Business-side Analysis)?
+## Is NYC recovering from COVID-19?
 
 ![NYC](https://www.topviewnyc.com/content/uploads/packages/5b6073e798d38_4_800.jpg)
 
 ## Overview:
-This project is designed to analyze New York City's recovery from COVID-19 and to determine whether or not NYC is actually recovering. I take a loot at several datasets to prove or disprove the theory as shown below. 
+This project is designed to analyze New York City's recovery from COVID-19 and to determine whether or not NYC is actually recovering. I take a loot at several datasets to prove or disprove the theory as shown below. For this project, I focused primarily on the business sector side to determine if NYC is recovering. I believe it is but slowly.
 
 
 ## Revenue of NYC during and before COVID-19
