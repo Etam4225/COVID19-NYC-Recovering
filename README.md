@@ -46,10 +46,9 @@ This takes a look at NY overall which points out in general that NYC is doing wo
 
 
 
-### Potential Additional Remaining Work
+### Conclusion
 
-I think it'd be helpful to compare unemployment rates with peaks of COVID-19 cases to see if there's a correlation (which could also provide additional analysis to use). I may also end up adding extra data although I do not have any in mind as of yet.
-
+Although analyzing tax revenue gave me inconclusive data, from taking a look at unemployment data, I was able to see that NYC was recovering somewhat from the big fall in 2020 going into 2021. I am however, genuinely curious what the data will show for the 2021 tax revenue because I wonder if it'd show a similar story as with looking at unemployment or not.
 
 # Sources:
 [Cases of Covid](https://data.cityofnewyork.us/Health/COVID-19-Daily-Counts-of-Cases-Hospitalizations-an/rc75-m7u3/data)  
