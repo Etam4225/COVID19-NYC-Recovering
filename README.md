@@ -1,6 +1,13 @@
-## Is NYC recovering from COVID-19? Let's take a look.
+## Is NYC recovering from COVID-19 (Business-side Analysis)?
+
+![NYC](https://www.topviewnyc.com/content/uploads/packages/5b6073e798d38_4_800.jpg)
+
+## Overview:
+This project is designed to analyze New York City's recovery from COVID-19 and to determine whether or not NYC is actually recovering. I take a loot at several datasets to prove or disprove the theory as shown below. 
+
 
 ## Revenue of NYC during and before COVID-19
+
 I gathered data that provided me details on the revenue NYC earned during previous years, including when COVID-19 hit. As you all know, Hunter College closed it's doors at around March 2020 and there was a 2 week lockdown imposed on many citizens. As such, for 2020's tax revenue I expected to see quite a decrease in revenue. However, the data I've gathered shows otherwise.
 
 Below is a graph of the mean actual NYC tax revenue annually (**In millions of dollars**). (This graph is the combined results of various sectors of tax revenue which includes various taxes like cigarette tax, real property tax, commerical rent tax, business corp tax, etc.)
