@@ -52,6 +52,12 @@ Looking at unemployment, however, does tell as a more interesting, revealing sto
 We can see that in 2017-2019, unemployment rates are relatively close and unchanged. Then, we see a massive jump (yes, this is what actually happened) from March and up in 2020.
 The change jumped from 4.20% to 15.20% an 11% jump. The following months, the rate stayed fairly high. Then going into 2021, we can see a relative trend that unemployment rates are indeed going down to suggest, NYC is slowly recovering from the effects, at least economy-wise.
 
+## Unemployment rate in NYC By County
+
+![Unemployment rate in NYC By County](https://raw.githubusercontent.com/Etam4225/COVID19-NYC-Recovering/main/unemployment%20by%20county.PNG)
+
+Here I looked at the mean unemployment rate each year by county in NYC. It shows how in all counties, the unemployment rate shot up from 2019 to 2020. Then, in 2021 it dropped back down slightly. However, once again, we can see more clearly that unemployment rate throughout all 5 counties in NYC are still practically double what it was in 2019. NYC is recovering from the impact, but incredibly slowly, as the data and chart suggests. 
+
 ## A look at unemployment in NY State
 ![Unemployment Rates in Octobe 2021](https://raw.githubusercontent.com/Etam4225/COVID19-NYC-Recovering/main/Department%20of%20Labor%20New%20York%20unemployment%20rate.PNG)
 
@@ -91,7 +97,9 @@ I also used the same graph except I graphed it alongside the unemployment rate w
 
 ![NYC's Mean Labor Force / Graphed with Unemployment rate (as a Line plot)](https://raw.githubusercontent.com/Etam4225/COVID19-NYC-Recovering/main/Mean%20Labor%20Force%20and%20Mean%20unemployment.PNG)
 
-Looking at this data, we can see that after covid hit in 2019, it had a huge impact on unemployment rate, even though the labor force dropped only slightly. In fact, doing the math, unemployed ROSE by nearly 4 times the amount from 2019 to 2020. Clearly in 2021, the data shows we are recovering again, but very slowly and nowhere near back to the 3-4% unemployment rate we saw back in 2019 and 2018
+Looking at this data, we can see that after covid hit in 2019, it had a huge impact on unemployment rate, even though the labor force dropped only slightly. In fact, doing the math, unemployed ROSE by nearly 4 times the amount from 2019 to 2020. Clearly in 2021, the data shows we are recovering again, but very slowly and nowhere near back to the 3-4% unemployment rate we saw back in 2019 and 2018.
+
+
 
 
 
@@ -103,12 +111,15 @@ I used several libraries to create the graphs shown on the website. The librarie
 Although analyzing tax revenue gave me inconclusive data, from taking a look at unemployment data, I was able to see that NYC was recovering somewhat from the big fall in 2020 going into 2021. I am however, genuinely curious what the data will show for the 2021 tax revenue because I wonder if it'd show a similar story as with looking at unemployment or not. Nonetheless, there is still some evidence showing that NYC is recovering, but certainly at a slow rate and has not totally recovered by any means from the impact of COVID-19 (which we still see today).
 
 # Sources:
-[Cases of Covid](https://data.cityofnewyork.us/Health/COVID-19-Daily-Counts-of-Cases-Hospitalizations-an/rc75-m7u3/data)  
-[Actual Tax Revenue](https://data.cityofnewyork.us/City-Government/New-York-City-Tax-Revenue-Actuals/j3uq-sh95)  
-[Unemployment Rates](https://statistics.labor.ny.gov/laus.asp)  
-[New York Department of Labor](https://dol.ny.gov/system/files/documents/2021/11/state-labor-department-releases-preliminary-october-2021-area-unemployment-rates.pdf)
+- [Cases of Covid](https://data.cityofnewyork.us/Health/COVID-19-Daily-Counts-of-Cases-Hospitalizations-an/rc75-m7u3/data)  
+- [Actual Tax Revenue](https://data.cityofnewyork.us/City-Government/New-York-City-Tax-Revenue-Actuals/j3uq-sh95)  
+- [Unemployment Rates](https://statistics.labor.ny.gov/laus.asp)  
+- [New York Department of Labor](https://dol.ny.gov/system/files/documents/2021/11/state-labor-department-releases-preliminary-october-2021-area-unemployment-rates.pdf)
 
-[Stack Overflow resource for restricting scientific notifcation](https://stackoverflow.com/questions/46735745/how-to-control-scientific-notation-in-matplotlib)
+
+# Stack Overflow Sources:
+- [Group Bar Plot (sns)](https://stackoverflow.com/questions/47796264/how-to-create-a-grouped-bar-plot)
+- [Stack Overflow resource for restricting scientific notifcation](https://stackoverflow.com/questions/46735745/how-to-control-scientific-notation-in-matplotlib)
 
 # END
 
