@@ -8,14 +8,15 @@ This project is designed to analyze New York City's recovery from COVID-19 and t
 - [Is NYC recovering from COVID-19?](#is-nyc-recovering-from-covid-19)
 - [Overview:](#overview)
 - [Tax Revenue of NYC during and before COVID-19](#tax-revenue-of-nyc-during-and-before-covid-19)
-- [Additional Note:](#additional-note)
-	- [Unemployment in NYC](#unemployment-in-nyc)
-	- [A look at unemployment in NY State](#a-look-at-unemployment-in-ny-state)
-	- [Further Analysis of Employment in NY (NYC Specifically)](#further-analysis-of-employment-in-ny-nyc-specifically)
-		- [Techniques](#techniques)
-		- [Conclusion](#conclusion)
+	- [Additional Note:](#additional-note)
+- [Unemployment in NYC](#unemployment-in-nyc)
+- [A look at unemployment in NY State](#a-look-at-unemployment-in-ny-state)
+- [Further Analysis of Employment in NY (NYC Specifically)](#further-analysis-of-employment-in-ny-nyc-specifically)
+- [Techniques](#techniques)
+- [Conclusion](#conclusion)
 - [Sources:](#sources)
 - [END](#end)
+
 
 ## Tax Revenue of NYC during and before COVID-19
 
@@ -34,7 +35,7 @@ Below is a graph of the mean actual NYC tax revenue annually (**In millions of d
 
 One thing to note is the difference in Mean Actual Tax Revenue between each year. We'll notice that the gain in tax revenue is lowest between 2019 and 2020 (a difference of 114.071429). So, it's evidently clear that COVID-19 **DID** have an effect in 2020 where tax revenue had declined about 300 million dollars (compared to 2018-2019) where it trended downward in 2020. So, in 2020 COVID-19 had a significant, negative effect on economy in NYC.
 
-# Additional Note:
+### Additional Note:
 Unfortunately, 2021's revenue data is not available (the year still isn't complete) and I have yet to find data for it either.
 
 Despite that, I do suspsect revenue on 2021 to nonetheless be lower, I think after the project ends, I could still update the bar graph to reflect this. If it indeed is HIGHER than 2020, I think that'd be an interesting point to point out that NYC is recovering albeit very slowly, however, as I stated earlier, my prediction for 2021 is that tax revenue has gone down or is close to the revenue of 2020 - I would of course like to have that data if possible.
@@ -89,10 +90,10 @@ Looking at this data, we can see that after covid hit in 2019, it had a huge imp
 
 
 
-### Techniques
+## Techniques
 I used several libraries to create the graphs shown on the website. The libraries I used included: pandas, matplotlib, seaborn, and numpy. These libraries were critical in the development of my graphs as they were invaluable in providing useful and intriguing visualizations that could help to better explain the situation with COVID-19 and New York. I also used one graph from the Department of Labor from their page to help us look at the overal picture in New York State.
 
-### Conclusion
+## Conclusion
 
 Although analyzing tax revenue gave me inconclusive data, from taking a look at unemployment data, I was able to see that NYC was recovering somewhat from the big fall in 2020 going into 2021. I am however, genuinely curious what the data will show for the 2021 tax revenue because I wonder if it'd show a similar story as with looking at unemployment or not. Nonetheless, there is still some evidence showing that NYC is recovering, but certainly at a slow rate and has not totally recovered by any means from the impact of COVID-19 (which we still see today).
 
