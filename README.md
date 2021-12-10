@@ -13,6 +13,7 @@ This project is designed to analyze New York City's recovery from COVID-19 and t
 - [Unemployment in NYC](#unemployment-in-nyc)
 - [A look at unemployment in NY State](#a-look-at-unemployment-in-ny-state)
 - [Further Analysis of Employment in NY (NYC Specifically)](#further-analysis-of-employment-in-ny-nyc-specifically)
+- [Unemployment rate in NYC By County](#Unemployment-rate-in-NYC-By-County)
 - [Techniques](#techniques)
 - [Conclusion](#conclusion)
 - [Sources:](#sources)
