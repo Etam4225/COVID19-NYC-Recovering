@@ -77,6 +77,10 @@ I also used the same graph except I graphed it alongside the unemployment rate w
 Looking at this data, we can see that after covid hit in 2019, it had a huge impact on unemployment rate, even though the labor force dropped only slightly. In fact, doing the math, unemployed ROSE by nearly 4 times the amount from 2019 to 2020. Clearly in 2021, the data shows we are recovering again, but very slowly and nowhere near back to the 3-4% unemployment rate we saw back in 2019 and 2018
 
 
+
+### Techniques
+I used several libraries to create the graphs shown on the website. The libraries I used included: pandas, matplotlib, seaborn, and numpy. These libraries were critical in the development of my graphs as they were invaluable in providing useful and intriguing visualizations that could help to better explain the situation with COVID-19 and New York. I also used one graph from the Department of Labor from their page to help us look at the overal picture in New York State.
+
 ### Conclusion
 
 Although analyzing tax revenue gave me inconclusive data, from taking a look at unemployment data, I was able to see that NYC was recovering somewhat from the big fall in 2020 going into 2021. I am however, genuinely curious what the data will show for the 2021 tax revenue because I wonder if it'd show a similar story as with looking at unemployment or not. Nonetheless, there is still some evidence showing that NYC is recovering, but certainly at a slow rate and has not totally recovered by any means from the impact of COVID-19 (which we still see today).
