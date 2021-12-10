@@ -79,7 +79,7 @@ Looking at this data, we can see that after covid hit in 2019, it had a huge imp
 
 ### Conclusion
 
-Although analyzing tax revenue gave me inconclusive data, from taking a look at unemployment data, I was able to see that NYC was recovering somewhat from the big fall in 2020 going into 2021. I am however, genuinely curious what the data will show for the 2021 tax revenue because I wonder if it'd show a similar story as with looking at unemployment or not. Nonetheless, there is evidence showing that NYC is recovering, but certainly slowly and has not totally recovered by any means.
+Although analyzing tax revenue gave me inconclusive data, from taking a look at unemployment data, I was able to see that NYC was recovering somewhat from the big fall in 2020 going into 2021. I am however, genuinely curious what the data will show for the 2021 tax revenue because I wonder if it'd show a similar story as with looking at unemployment or not. Nonetheless, there is still some evidence showing that NYC is recovering, but certainly at a slow rate and has not totally recovered by any means from the impact of COVID-19 (which we still see today).
 
 # Sources:
 [Cases of Covid](https://data.cityofnewyork.us/Health/COVID-19-Daily-Counts-of-Cases-Hospitalizations-an/rc75-m7u3/data)  
