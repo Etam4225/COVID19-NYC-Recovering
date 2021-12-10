@@ -104,7 +104,7 @@ Although analyzing tax revenue gave me inconclusive data, from taking a look at 
 [Unemployment Rates](https://statistics.labor.ny.gov/laus.asp)  
 [New York Department of Labor](https://dol.ny.gov/system/files/documents/2021/11/state-labor-department-releases-preliminary-october-2021-area-unemployment-rates.pdf)
 
-
+[Stack Overflow resource for restricting scientific notifcation](https://stackoverflow.com/questions/46735745/how-to-control-scientific-notation-in-matplotlib)
 
 # END
 
