@@ -60,9 +60,26 @@ And the graph below:
 
 ![NYC's Mean Labor Force](https://raw.githubusercontent.com/Etam4225/COVID19-NYC-Recovering/main/Mean%20annual%20Revenue%20Yearly.PNG)
 
+The data shows that the labor force dropped slightly going into 2020 when covid hit, despite that, the labor force seems roughly the same from each year in 2017-2021. WE also see that the labor force bounced back slightly from 2020 to 2021.
+
+I also used the same graph except I graphed it alongside the unemployment rate which tells us some additional interesting info:
+
+ | YEAR  | Unemployment % |
+| ------------- | ------------- |
+|2017 | 4.525000|
+|2018   | 4.116667|
+|2019   |   3.858333|
+|2020    |  12.458333|
+|2021    |  11.000000|
+
+![NYC's Mean Labor Force / Graphed with Unemployment rate (as a Line plot)](https://raw.githubusercontent.com/Etam4225/COVID19-NYC-Recovering/main/Mean%20Labor%20Force%20and%20Mean%20unemployment.PNG)
+
+Looking at this data, we can see that after covid hit in 2019, it had a huge impact on unemployment rate, even though the labor force dropped only slightly. In fact, doing the math, unemployed ROSE by nearly 4 times the amount from 2019 to 2020. Clearly in 2021, the data shows we are recovering again, but very slowly and nowhere near back to the 3-4% unemployment rate we saw back in 2019 and 2018
+
+
 ### Conclusion
 
-Although analyzing tax revenue gave me inconclusive data, from taking a look at unemployment data, I was able to see that NYC was recovering somewhat from the big fall in 2020 going into 2021. I am however, genuinely curious what the data will show for the 2021 tax revenue because I wonder if it'd show a similar story as with looking at unemployment or not.
+Although analyzing tax revenue gave me inconclusive data, from taking a look at unemployment data, I was able to see that NYC was recovering somewhat from the big fall in 2020 going into 2021. I am however, genuinely curious what the data will show for the 2021 tax revenue because I wonder if it'd show a similar story as with looking at unemployment or not. Nonetheless, there is evidence showing that NYC is recovering, but certainly slowly and has not totally recovered by any means.
 
 # Sources:
 [Cases of Covid](https://data.cityofnewyork.us/Health/COVID-19-Daily-Counts-of-Cases-Hospitalizations-an/rc75-m7u3/data)  
