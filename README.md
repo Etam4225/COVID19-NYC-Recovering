@@ -47,6 +47,8 @@ Looking at unemployment, however, does tell as a more interesting, revealing sto
 
 ![Unemployment Rates by Year (2017-2021)](https://raw.githubusercontent.com/Etam4225/COVID19-NYC-Recovering/main/Figure_1.png)
 
+(NOT Seasonally Adjusted)
+
 We can see that in 2017-2019, unemployment rates are relatively close and unchanged. Then, we see a massive jump (yes, this is what actually happened) from March and up in 2020.
 The change jumped from 4.20% to 15.20% an 11% jump. The following months, the rate stayed fairly high. Then going into 2021, we can see a relative trend that unemployment rates are indeed going down to suggest, NYC is slowly recovering from the effects, at least economy-wise.
 
@@ -58,6 +60,7 @@ Source: [New York Department of Labor](https://dol.ny.gov/system/files/documents
 This takes a look at NY overall which points out in general that NYC is doing worse objectively compared to New York's other counties.
 
 ## Further Analysis of Employment in NY (NYC Specifically)
+(Seasonally Adjusted data used here)
 
 Here, I looked at the workforce of NYC as the dataframe provides the following data:
 
@@ -76,6 +79,7 @@ And the graph below:
 The data shows that the labor force dropped slightly going into 2020 when covid hit, despite that, the labor force seems roughly the same from each year in 2017-2021. WE also see that the labor force bounced back slightly from 2020 to 2021.
 
 I also used the same graph except I graphed it alongside the unemployment rate which tells us some additional interesting info:
+
 
  | YEAR  | Unemployment % |
 | ------------- | ------------- |
