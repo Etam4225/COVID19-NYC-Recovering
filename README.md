@@ -5,8 +5,19 @@
 ## Overview:
 This project is designed to analyze New York City's recovery from COVID-19 and to determine whether or not NYC is actually recovering. I take a loot at several datasets to prove or disprove the theory as shown below. For this project, I focused primarily on the business sector side to determine if NYC is recovering. I believe it is but slowly. As we all know COVID-19 was discovefred first in 2019 (hence COVID-19). So I looked at data around 2019 (more specifically in 2017-Present [Where Possible].
 
+  * [Overview:](#overview-)
+  * [Tax Revenue of NYC during and before COVID-19](#tax-revenue-of-nyc-during-and-before-covid-19)
+- [Additional Note:](##additional-note-)
+  * [Unemployment in NYC](#unemployment-in-nyc)
+  * [A look at unemployment in NY State](#a-look-at-unemployment-in-ny-state)
+  * [Further Analysis of Employment in NY (NYC Specifically)](#further-analysis-of-employment-in-ny--nyc-specifically-)
+    + [Techniques](#techniques)
+    + [Conclusion](#conclusion)
+- [Sources:](#sources-)
+- [END](#end)
 
-## Revenue of NYC during and before COVID-19
+
+## Tax Revenue of NYC during and before COVID-19
 
 I gathered data that provided me details on the revenue NYC earned during previous years, including when COVID-19 hit. As you all know, Hunter College closed it's doors at around March 2020 and there was a 2 week lockdown imposed on many citizens. As such, for 2020's tax revenue I expected to see quite a decrease in revenue. However, the data I've gathered shows otherwise.
 
