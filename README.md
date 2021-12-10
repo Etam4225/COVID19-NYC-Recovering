@@ -3,7 +3,7 @@
 ![NYC](https://www.topviewnyc.com/content/uploads/packages/5b6073e798d38_4_800.jpg)
 
 ## Overview:
-This project is designed to analyze New York City's recovery from COVID-19 and to determine whether or not NYC is actually recovering. I take a loot at several datasets to prove or disprove the theory as shown below. For this project, I focused primarily on the business sector side to determine if NYC is recovering. I believe it is but slowly.
+This project is designed to analyze New York City's recovery from COVID-19 and to determine whether or not NYC is actually recovering. I take a loot at several datasets to prove or disprove the theory as shown below. For this project, I focused primarily on the business sector side to determine if NYC is recovering. I believe it is but slowly. As we all know COVID-19 was discovefred first in 2019 (hence COVID-19). So I looked at data around 2019 (more specifically in 2017-Present [Where Possible].
 
 
 ## Revenue of NYC during and before COVID-19
@@ -44,7 +44,21 @@ Source: [New York Department of Labor](https://dol.ny.gov/system/files/documents
 
 This takes a look at NY overall which points out in general that NYC is doing worse objectively compared to New York's other counties.
 
+## Further Analysis of Employment in NY (NYC Specifically)
 
+Here, I looked at the workforce of NYC as the dataframe provides the following data:
+
+| YEAR  | Mean of Labor Force |
+| ------------- | ------------- |
+|2017  |  4,116,740|
+|2018 |   4,075,573|
+|2019  |  4,071,296|
+|2020  |  3,908,636|
+|2021  |  4,007,027|
+
+And the graph below:
+
+![NYC's Mean Labor Force](https://raw.githubusercontent.com/Etam4225/COVID19-NYC-Recovering/main/Mean%20annual%20Revenue%20Yearly.PNG)
 
 ### Conclusion
 
