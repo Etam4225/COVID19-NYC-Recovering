@@ -7,7 +7,7 @@ This project is designed to analyze New York City's recovery from COVID-19 and t
 
   * [Overview:](#overview-)
   * [Tax Revenue of NYC during and before COVID-19](#tax-revenue-of-nyc-during-and-before-covid-19)
-- [Additional Note:](##additional-note-)
+- [Additional Note:](##additional-note:-)
   * [Unemployment in NYC](#unemployment-in-nyc)
   * [A look at unemployment in NY State](#a-look-at-unemployment-in-ny-state)
   * [Further Analysis of Employment in NY (NYC Specifically)](#further-analysis-of-employment-in-ny--nyc-specifically-)
