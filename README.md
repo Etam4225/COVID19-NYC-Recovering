@@ -1,5 +1,7 @@
 ## Is NYC recovering from COVID-19?
 
+### By Ethan Tam
+
 ![NYC](https://www.topviewnyc.com/content/uploads/packages/5b6073e798d38_4_800.jpg)
 
 ## Overview:
