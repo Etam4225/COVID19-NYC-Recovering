@@ -1,4 +1,4 @@
-## Is NYC recovering from COVID-19?
+## NYC Revenue in Relation to COVID-19 – Is NYC Recovering?
 
 ##### By: Ethan Tam
 
