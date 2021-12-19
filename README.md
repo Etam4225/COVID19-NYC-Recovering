@@ -83,7 +83,7 @@ Here, I looked at the workforce of NYC as the dataframe provides the following d
 
 And the graph below:
 
-![NYC's Mean Labor Force](https://raw.githubusercontent.com/Etam4225/COVID19-NYC-Recovering/main/Mean%20annual%20Revenue%20Yearly.PNG)
+![NYC's Mean Labor Force](https://raw.githubusercontent.com/Etam4225/COVID19-NYC-Recovering/main/Mean%20Labor%20Force.PNG)
 
 The data shows that the labor force dropped slightly going into 2020 when covid hit, despite that, the labor force seems roughly the same from each year in 2017-2021. WE also see that the labor force bounced back slightly from 2020 to 2021.
 
